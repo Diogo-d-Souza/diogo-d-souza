@@ -1,10 +1,13 @@
 ## Hello World!
 
+I'm a software developer focused on back-end, currently studying Information Systems at UFRPE and passionate about technology. I have hands-on experience with Java, Spring Boot, Python, Vue.js, React.js, Docker, and both relational and non-relational databases. I enjoy working on projects that challenge me to apply software engineering best practices such as automated testing, continuous integration, and clean architecture. I'm also constantly learning more about cloud computing, especially AWS services, and exploring scalable and well-structured solutions.
+
 ## Technologies & Tools
 
 **Stacks**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
